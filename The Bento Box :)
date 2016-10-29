@@ -28,4 +28,4 @@ print(lent)
 for i in range(0,lent):
   print(trump[i] + "=")
   print(trump.count(trump[i]))
-  #hahahahahahaahah
+#what happens is, the code finds the trump in trump and you will print trump which =0 therefore doing this for all words, that was a pretty bad explanation but hey i dont really care!
